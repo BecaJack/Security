@@ -6,14 +6,8 @@ BECA will deliver an updated experience for you on a regular basis, including up
 
 By default, products are supported for at least 3 years from release date. The product will always be supported if it continues to be produced.
 
-### 1. Communication Stick
+### 1. Thermostat
 
 |Product Model|Country|Release Date|Security Update EOL|OS Version|
 |--|--|--|--|--|
-|CB3S Series|Global|2024-06-01|2027-06-01|1.1|
-
-### 2.Smart Tag
-
-|Product Model|Country|Release Date|Security Update EOL|OS Version|
-|--|--|--|--|--|
-|Thermostat|Global|2024-06-01|2027-06-01|1.1|
+|BHT-006|Global|2024-06-01|2027-06-01|1.1|
